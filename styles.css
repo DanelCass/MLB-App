@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+    margin: 0;
+    padding: 8px;
+    background-color: rgb(1, 14, 39);
+    box-shadow: 0 5px 5px;
+    border: 2px solid rgba(1, 4, 10, 0.726);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+    
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
